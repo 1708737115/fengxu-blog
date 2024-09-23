@@ -1,3 +1,5 @@
-# xlings-book-template
+# fengxu的博客
 
-在线 **文档 | 书籍 | 笔记** 模板仓库 - [**快速使用**](https://d2learn.github.io/xlings-book-template/)
+该博客主要用于大家互相之间交流yjia，共同进步，同时博主会分享一些自己的学习笔记，供大家参考。
+
+[快速开始](./book/src/SUMMARY.md)
