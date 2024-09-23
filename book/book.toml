@@ -1,13 +1,13 @@
 [book]
-title = "Xlings Book Template | 文档 | 书籍 | 笔记"
-author = "Author Name"
-language = "en"
+title = "fengxu-blog"
+author = "fengxu"
+language = "cpp or go or python"
 
 [build]
 build-dir = "book"
 
 [output.html]
-git-repository-url = "https://github.com/d2learn/xlings-book-template"
+git-repository-url = "https://1708737115.github.io/fengxu-blog"
 
 [preprocessor.foo]
 # Add any additional configurations
