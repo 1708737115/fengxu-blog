@@ -1,0 +1,2 @@
+xlings_name = "xlings_book"
+xlings_deps = "vscode, mdbook"
