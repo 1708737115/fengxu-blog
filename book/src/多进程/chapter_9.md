@@ -235,12 +235,12 @@ clean:
 以上仅供参考，大家根据自己的需求来进行修改。
 
 测试并且运行，这里我们开启三个命令行来测试：
-![在这里插入图片描述](https://i-blog.csdnimg.cn/blog_migrate/4329b9151f228954baa27e097f9b2cb3.png)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/blog_migrate/935b8e9addb71a46e3368b5e83415754.png)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/blog_migrate/7aaff84c409fc81c8fe05f498e5ec1f3.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+![Alt text](image-3.png)
 我们看到基本实现了我们想的功能，将带有进程心跳的信息储存到了结构体中，后面我们会介绍我们如何基于守护进程来对进程的心跳来实现对进程状态的监控，不过这是后话了。
 
-# 进程心跳代码的优化
+## 进程心跳代码的优化
 
 上面我们已经实现了一个简单的进程心跳代码，但是现在有几个实际情况需要我们来考虑,分别是：
 
