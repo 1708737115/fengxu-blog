@@ -192,7 +192,7 @@ std::atomic<status_t> status;//线程池的状态,这里使用原子变量来保
 ```
 
 而线程池的状态机模型如下:
-![Alt text](../../../../mythreadPoll/%E7%8A%B6%E6%80%81%E6%9C%BA%E6%A8%A1%E5%9E%8B.png)
+![Alt text](image.png)
 
 具体的状态转化代码可以参考:
 
